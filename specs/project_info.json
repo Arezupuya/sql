@@ -1,0 +1,20 @@
+{
+  "projectName": "SQLite Manager Tool",
+  "category": "Database (DBMS)",
+  "author": "Arezoo Pouya",
+  "version": "1.0.0",
+  "description": "Lightweight SQLite database management and automation tool (init, seed, list, JSON report, self-test).",
+  "features": [
+    "Create SQLite database",
+    "Create tables automatically",
+    "Seed sample data",
+    "List tables and row counts",
+    "Export JSON report",
+    "Self-test (auto test ability)"
+  ],
+  "requirements": {
+    "os": "macOS / Linux",
+    "language": "Python 3 (stdlib only)",
+    "dependencies": "None"
+  }
+}
